@@ -1,0 +1,16 @@
+# Gradle & build
+.gradle/
+build/
+app/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+# Kunci tanda tangan: JANGAN pernah diunggah
+*.jks
+*.keystore
+keystore.properties
+# IDE & OS
+.idea/
+*.iml
+.DS_Store
